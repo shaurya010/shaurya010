@@ -1,16 +1,74 @@
-### Hi there 👋
+# About
+# Hey 🖐, I'm [Shaurya Pratap Singh](https://shaurya010.github.io/Shaurya_CV/index.html)
 
-<!--
-**shaurya010/shaurya010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>
+        <p>I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academics/eb/computer-science-and-engineering' target="_blank">Computer Science Department</a> at
+  <a href='https://www.psit.ac.in/' target="_blank">Pranveer Singh Institute</a>, I am broadly
+  interested in Data Structure, security, and Web Development. I created an <a href="https://shaurya010.github.io/Take_You_Online/" target="_blank" alt="website">educational website</a> which is live and has more than <strong>3000</strong> users.
+</p>
 
-Here are some ideas to get you started:
+<p>In 2023, I am an research assistant in the <a href='https://www.drdo.gov.in/labs-and-establishments/centre-artificial-intelligence-robotics-cair' target="_blank"> Centre for Artificial Intelligence & Robotics (CAIR) at DRDO(Defence Research and Development Organisation)</a>,
+  supervised by  <a href='https://www.linkedin.com/in/bhupendra-singh-5ab5327/' target="_blank"> Dr. Bhupendra Singh</a>.
+  My primary area of work includes the design and analysis of quantum-safe stream ciphers and block ciphers also worked on lattice-based cryptography. Design and
+  analysis of tests for quantum random number generators. </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Currently, I am working on the <a href="https://cseweb.ucsd.edu/~daniele/LatticeLinks/SVP.html" target="_blank" alt="Shortest vector Problem">Shortest Vector Problem </a>
+    of Post-Qunatum Cryptography and tryinr to find the shortest vector from an N-dimensional lattice with the help of the machine learning algorithm K-Nearest Neighbour(KNN). And also public a conference <a href="https://www.ijana.in/papers/ICCMEA_7.pdf" target="_blank" alt="Paper">Paper</a>.
+</p>
+
+<p>In the summer of 2022, I worked with Prof. <a href='https://www.linkedin.com/in/dr-atul-chaturvedi-a6247234/' target="_blank">Atul Chaturvedi</a> at PSIT on the use of cryptography in Blockchain
+and hash function and how they generate keys for adding blocks of blockchain. I public a <a href="https://www.ijana.in/papers/ICCMEA_8.pdf" target="_blank" alt="Paper">Paper</a> on it.</p>
+<br/>
+I have good Problem Solving Skills and love to code.
+<br/>
+ </h4>
+
+### I'm a Competitive Programmer.
+<a href="https://codeforces.com/profile/Deepak_23">
+  <img align="left" alt="Shaurya's CodeForces" height="35px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" />
+</a>
+<a href="https://www.codechef.com/users/aomine23">
+  <img align="left" alt="Shaurya's Code Chef" height="35px" width="50px" src="https://avatars.githubusercontent.com/u/11960354?v=4" />
+</a>
+
+<a href="https://www.hackerrank.com/2001641540049_DS?hr_r=1">
+  <img align="left" alt="Shaurya's HackerRank" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/shaurya010">
+  <img align="left" alt="shaurya's GFG" height="35px" width="50px" src="https://img.icons8.com/color/452/GeeksforGeeks.png" />
+</a>
+
+
+
+<a href="https://leetcode.com/shaurya123456/">
+  <img align="left" alt="Shaurya's Leet Code" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+</a>
+<br/>
+<br/>
+<br/>
+
+<h1>Languages and Tools:</h1>
+<code><img height="35px" width="50px" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"></code>
+<code><img height="35px" width="50px" src="https://e7.pngegg.com/pngimages/857/885/png-clipart-python-javascript-logo-soloist-blue-angle-thumbnail.png"></code>
+<code><img height="35px" width="50px" src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/38a9cafe-c53e-47f2-f431-428120462000/public"></code>
+<code><img height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></code>
+<code><img height="35px" width="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"></code>
+<code><img height="35px" width="50px" src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png"></code>
+<code><img height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"></code>
+<code><img height="35px" width="50px" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"></code>
+
+<br />
+<br />
+
+
+<h1> Connect With Me:</h1>
+<h2>LinkedIn: <a href="https://www.linkedin.com/in/shaurya-pratap-singh-13978020b/">
+ Click
+</a><br>
+Email Id:<a href="">
+  shauryapratap2114@gmail.com
+</a></h2>
+
+<br/>
+<br/>
