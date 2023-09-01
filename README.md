@@ -4,7 +4,7 @@
 <h2>
        <p>I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academics/eb/computer-science-and-engineering' target="_blank">Computer Science Department</a> at
   <a href='https://www.psit.ac.in/' target="_blank">Pranveer Singh Institute</a>, I am broadly
-  interested in Data Structure, security, and Web Development. I created an <a href="https://shaurya010.github.io/Take_You_Online/" target="_blank" alt="website">educational website</a> which is live and has more than <strong>3000</strong> users.
+  interested in Data Structure and Algorithm, security, and Web Development. I created an <a href="https://shaurya010.github.io/Take_You_Online/" target="_blank" alt="website">educational website</a> which is live and has more than <strong>3000</strong> users.
 </p>
 
 <p>In 2023, I am an upcoming research assistant in the  <a href='https://www.drdo.gov.in/labs-and-establishments/centre-artificial-intelligence-robotics-cair' target="_blank"> Centre for Artificial Intelligence & Robotics (CAIR) at DRDO(Defence Research and Development Organisation)</a>,
