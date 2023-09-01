@@ -1,7 +1,7 @@
 # About
 # Hey 🖐, I'm [Shaurya Pratap Singh](https://shaurya010.github.io/Shaurya_CV/index.html)
 
-<h4>
+<h2>
         <p>I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academics/eb/computer-science-and-engineering' target="_blank">Computer Science Department</a> at
   <a href='https://www.psit.ac.in/' target="_blank">Pranveer Singh Institute</a>, I am broadly
   interested in Data Structure, security, and Web Development. I created an <a href="https://shaurya010.github.io/Take_You_Online/" target="_blank" alt="website">educational website</a> which is live and has more than <strong>3000</strong> users.
@@ -21,7 +21,7 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
 <br/>
 I have good Problem Solving Skills and love to code.
 <br/>
- </h4>
+ </h2>
 
 ### I'm a Competitive Programmer.
 <a href="https://codeforces.com/profile/Deepak_23">
