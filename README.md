@@ -2,7 +2,7 @@
 # Hey 🖐, I'm [Shaurya Pratap Singh](https://shaurya010.github.io/Shaurya_CV/index.html)
 
 <h2>
-       <p>I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academics/eb/computer-science-and-engineering' target="_blank">Computer Science Department</a> at
+      <p>I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academics/eb/computer-science-and-engineering' target="_blank">Computer Science Department</a> at
   <a href='https://www.psit.ac.in/' target="_blank">Pranveer Singh Institute</a>, I am broadly
   interested in Data Structure and Algorithm, security, and Web Development. I created an <a href="https://shaurya010.github.io/Take_You_Online/" target="_blank" alt="website">educational website</a> which is live and has more than <strong>3000</strong> users.
 </p>
@@ -13,7 +13,7 @@
   also work on lattice-based cryptography. Design and analysis of tests for quantum random number generators. </p>
 
 <p>Currently, I am working on the <a href="https://cseweb.ucsd.edu/~daniele/LatticeLinks/SVP.html" target="_blank" alt="Shortest vector Problem">Shortest Vector Problem </a>
-    of Post-Qunatum Cryptography and tryinr to find the shortest vector from an N-dimensional lattice with the help of the machine learning algorithm K-Nearest Neighbour(KNN). And also public a conference <a href="https://www.ijana.in/papers/ICCMEA_7.pdf" target="_blank" alt="Paper">Paper</a>.
+    of Post-Qunatum Cryptography and trying to find the shortest vector from an N-dimensional lattice with the help of the machine learning algorithm K-Nearest Neighbour(KNN). Also public a <a href="https://www.ijana.in/papers/ICCMEA_7.pdf" target="_blank" alt="Paper">Paper</a> related to qunatum cryptography.
 </p>
 
 <p>In the summer of 2022, I worked with Prof. <a href='https://www.linkedin.com/in/dr-atul-chaturvedi-a6247234/' target="_blank">Atul Chaturvedi</a> at PSIT on the use of cryptography in Blockchain
