@@ -1,4 +1,3 @@
-# About
 # Hey 🖐, I'm [Shaurya Pratap Singh](https://shaurya010.github.io/Shaurya_CV/index.html)
 
 <h2>
