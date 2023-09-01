@@ -21,9 +21,8 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
 <br/>
 I have good Problem Solving Skills and love to code.
 <br/>
+### I'm a Competitive Programmer:
  </h2>
-
-### I'm a Competitive Programmer:<br>
 <a href="https://codeforces.com/profile/Deepak_23">
   <img align="left" alt="Shaurya's CodeForces" height="35px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" />
 </a>
