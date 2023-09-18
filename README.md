@@ -19,22 +19,22 @@ In 2023, I am an upcoming research assistant in the  <a href='https://www.drdo.g
 and hash function and how they generate keys for adding blocks of blockchain. I public a <a href="https://www.ijana.in/papers/ICCMEA_8.pdf" target="_blank" alt="Paper">Paper</a> on it. 
 
 ## I'm a Competitive Programmer:
-<hr>
 
-* [ <img align="left" alt="Shaurya's CodeForces" height="35px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png"  />](https://codeforces.com/profile/Deepak_23)
 
-* [<img align="left" alt="Shaurya's Code Chef" height="35px" width="50px" src="https://avatars.githubusercontent.com/u/11960354?v=4" />](https://www.codechef.com/users/aomine23)
+*** [ <img align="left" alt="Shaurya's CodeForces" height="35px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png"  />](https://codeforces.com/profile/Deepak_23)
 
-* [ <img align="left" alt="Shaurya's HackerRank" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/2001641540049_DS?hr_r=1)
+*** [<img align="left" alt="Shaurya's Code Chef" height="35px" width="50px" src="https://avatars.githubusercontent.com/u/11960354?v=4" />](https://www.codechef.com/users/aomine23)
 
-* [ <img align="left" alt="shaurya's GFG" height="35px" width="50px" src="https://img.icons8.com/color/452/GeeksforGeeks.png" />](https://auth.geeksforgeeks.org/user/shaurya010)
+*** [ <img align="left" alt="Shaurya's HackerRank" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/2001641540049_DS?hr_r=1)
 
-* [ <img align="left" alt="Shaurya's Leet Code" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />](https://leetcode.com/shaurya123456/)
-* 
-</hr>
+*** [ <img align="left" alt="shaurya's GFG" height="35px" width="50px" src="https://img.icons8.com/color/452/GeeksforGeeks.png" />](https://auth.geeksforgeeks.org/user/shaurya010)
+
+*** [ <img align="left" alt="Shaurya's Leet Code" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />](https://leetcode.com/shaurya123456/)
+
+
 
 ## Languages and Tools:
-<hr>
+
 
 * [  <img height="35px" width="50px" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"/> ]()
 
@@ -50,7 +50,7 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
 
 * [<img height="35px" width="50px" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"/>]()
 * 
-</hr>
+
 
 
 
