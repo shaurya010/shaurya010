@@ -41,7 +41,7 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
   <img align="left" alt="Shaurya's Leet Code" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> 
 </a>
 </hr>
-
+<br>
 ## Languages and Tools:
 
 <hr>
