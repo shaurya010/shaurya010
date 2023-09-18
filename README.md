@@ -31,19 +31,19 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
 
 
 ## Languages and Tools:
-* [  <img height="35px" width="50px" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"/> ]
+* [  <img height="35px" width="50px" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"/> ]()
 
-* [<img height="35px" width="50px" src="https://e7.pngegg.com/pngimages/857/885/png-clipart-python-javascript-logo-soloist-blue-angle-thumbnail.png"/>]
+* [<img height="35px" width="50px" src="https://e7.pngegg.com/pngimages/857/885/png-clipart-python-javascript-logo-soloist-blue-angle-thumbnail.png"/>]()
 
-* [ <img align="left" alt="Shaurya's HackerRank" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />]
+* [ <img align="left" alt="Shaurya's HackerRank" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />]()
 
-* [ <img height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/>]
+* [ <img height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/>]()
 
-* [<img height="35px" width="50px" src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png"/>]
+* [<img height="35px" width="50px" src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png"/>]()
 
-* [ <img height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/>]
+* [ <img height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/>]()
 
-* [<img height="35px" width="50px" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"/>]
+* [<img height="35px" width="50px" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"/>]()
 
 
 
