@@ -1,7 +1,6 @@
 # Hey 🖐, I'm [Shaurya Pratap Singh](https://shaurya010.github.io/Shaurya_CV/index.html)
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40shaurya010-239a3b.svg)](https://github.com/shaurya010)
-[![Email](https://img.shields.io/badge/Email-%40shauryapratap2114@gmail.com-58a1f2.svg)](shauryapratap2114@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linked-Shaurya_Pratap_Singh-0c66c3.svg)]((https://www.linkedin.com/in/shaurya-pratap-singh-13978020b/))
 
 I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academics/eb/computer-science-and-engineering' target="_blank">Computer Science Department</a> at
