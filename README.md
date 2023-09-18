@@ -18,7 +18,7 @@ In 2023, I am an upcoming research assistant in the  <a href='https://www.drdo.g
    In the summer of 2022, I worked with Prof. <a href='https://www.linkedin.com/in/dr-atul-chaturvedi-a6247234/' target="_blank">Atul Chaturvedi</a> at PSIT on the use of cryptography in Blockchain
 and hash function and how they generate keys for adding blocks of blockchain. I public a <a href="https://www.ijana.in/papers/ICCMEA_8.pdf" target="_blank" alt="Paper">Paper</a> on it. 
 
-## I'm a Competitive Programmer:
+<h2> I'm a Competitive Programmer:</h2>
 
 <hr>
 <a href="https://codeforces.com/profile/Deepak_23" target="_blank">
