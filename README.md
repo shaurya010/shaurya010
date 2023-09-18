@@ -19,7 +19,7 @@ In 2023, I am an upcoming research assistant in the  <a href='https://www.drdo.g
 and hash function and how they generate keys for adding blocks of blockchain. I public a <a href="https://www.ijana.in/papers/ICCMEA_8.pdf" target="_blank" alt="Paper">Paper</a> on it. 
 
 ## I'm a Competitive Programmer:
-## Languages and Tools:
+
 <hr>
  <a href="https://codeforces.com/profile/Deepak_23" target="_blank">
   <img align="left" alt="Shaurya's CodeForces" height="35px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png"  />
@@ -42,7 +42,7 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
 </a>
 
 </hr>
-
+## Languages and Tools:
 <br> 
 
 
