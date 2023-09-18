@@ -43,7 +43,7 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
 
 </hr>
 
-<br>
+<br> 
 ## Languages and Tools:
 <hr>
   <code><img height="35px" width="50px" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"></code>
