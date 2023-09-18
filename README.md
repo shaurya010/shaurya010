@@ -20,48 +20,18 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
 
 ## I'm a Competitive Programmer:
 * [ <img align="left" alt="Shaurya's CodeForces" height="35px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png"  />](https://codeforces.com/profile/Deepak_23)
-* [L'intelligence artificielle va faire gagner un temps fou aux codeurs](https://lexpansion.lexpress.fr/high-tech/thomas-dohmke-github-l-intelligence-artificielle-va-faire-gagner-un-temps-fou-aux-codeurs_2181911.html) (in French)
-* [Microsoft’s GitHub Copilot AI is making rapid progress. Here’s how its human leader thinks about it](https://www.cnbc.com/2022/10/14/microsoft-ai-leaps-ahead-heres-what-its-human-leader-thinks-about-it.html)
-* [GitHub CEO's advice to founders: Big Tech isn’t smarter than you](https://www.bizjournals.com/sanfrancisco/inno/stories/inno-insights/2022/10/04/startup-world-cup-2022-github-microsoft.html)
-* [AI-Powered Coding Assistant Aims to Help, Not Replace Developers](https://www.wsj.com/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433)
-* [GitHub's New CEO Says He's 'All About Developer Happiness'](https://www.businessinsider.com/github-microsoft-new-ceo-thomas-dohmke-developer-happiness-2022-5)
-* [KI ist der nächste Schritt für die Softwareentwicklung](https://background.tagesspiegel.de/digitalisierung/ki-ist-der-naechste-schritt-fuer-die-softwareentwicklung) (in German)
+
+* [<img align="left" alt="Shaurya's Code Chef" height="35px" width="50px" src="https://avatars.githubusercontent.com/u/11960354?v=4" />](https://www.codechef.com/users/aomine23)
+
+* [ <img align="left" alt="Shaurya's HackerRank" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/2001641540049_DS?hr_r=1)
+
+* [ <img align="left" alt="shaurya's GFG" height="35px" width="50px" src="https://img.icons8.com/color/452/GeeksforGeeks.png" />](https://auth.geeksforgeeks.org/user/shaurya010)
+
+* [ <img align="left" alt="Shaurya's Leet Code" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />](https://leetcode.com/shaurya123456/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-<hr>
- <a href="https://codeforces.com/profile/Deepak_23" target="_blank">
-  <img align="left" alt="Shaurya's CodeForces" height="35px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png"  />
-</a>
-
-  <a href="https://www.codechef.com/users/aomine23" target="_blank">
-  <img align="left" alt="Shaurya's Code Chef" height="35px" width="50px" src="https://avatars.githubusercontent.com/u/11960354?v=4" />
-</a>
-
- <a href="https://www.hackerrank.com/2001641540049_DS?hr_r=1" target="_blank">
-  <img align="left" alt="Shaurya's HackerRank" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />
-</a>
-
-  <a href="https://auth.geeksforgeeks.org/user/shaurya010" target="_blank">
-  <img align="left" alt="shaurya's GFG" height="35px" width="50px" src="https://img.icons8.com/color/452/GeeksforGeeks.png" />
-</a>
-
-  <a href="https://leetcode.com/shaurya123456/" target="_blank">
-  <img align="left" alt="Shaurya's Leet Code" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> 
-</a>
-
-</hr>
 ## Languages and Tools:
+
 <br> 
 
 
