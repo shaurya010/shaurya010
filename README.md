@@ -24,6 +24,7 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
 * <a href="https://codeforces.com/profile/Deepak_23" target="_blank">
   <img align="left" alt="Shaurya's CodeForces" height="35px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png"  />
 </a>
+
 * <a href="https://www.codechef.com/users/aomine23" target="_blank">
   <img align="left" alt="Shaurya's Code Chef" height="35px" width="50px" src="https://avatars.githubusercontent.com/u/11960354?v=4" />
 </a>
@@ -36,10 +37,9 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
   <img align="left" alt="shaurya's GFG" height="35px" width="50px" src="https://img.icons8.com/color/452/GeeksforGeeks.png" />
 </a>
 
-
-
 * <a href="https://leetcode.com/shaurya123456/" target="_blank">
-  <img align="left" alt="Shaurya's Leet Code" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> </a>
+  <img align="left" alt="Shaurya's Leet Code" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> 
+</a>
 
 ## Languages and Tools:
 
