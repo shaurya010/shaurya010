@@ -20,10 +20,9 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
 
 ## I'm a Competitive Programmer:
 
+ [ <img align="left" alt="Shaurya's CodeForces" height="35px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png"  />](https://codeforces.com/profile/Deepak_23)
 
-*** [ <img align="left" alt="Shaurya's CodeForces" height="35px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png"  />](https://codeforces.com/profile/Deepak_23)
-
-*** [<img align="left" alt="Shaurya's Code Chef" height="35px" width="50px" src="https://avatars.githubusercontent.com/u/11960354?v=4" />](https://www.codechef.com/users/aomine23)
+ [<img align="left" alt="Shaurya's Code Chef" height="35px" width="50px" src="https://avatars.githubusercontent.com/u/11960354?v=4" />](https://www.codechef.com/users/aomine23)
 
 *** [ <img align="left" alt="Shaurya's HackerRank" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/2001641540049_DS?hr_r=1)
 
