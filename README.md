@@ -42,7 +42,7 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
 </a>
 
 </hr>
-
+<br>
 ## Languages and Tools:
 
 <hr>
