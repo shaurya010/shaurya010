@@ -34,13 +34,15 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
 
 ## Languages and Tools:
 
- [<img align="left" alt="C++" height="35px" width="50px" src="https://cdn-icons-png.flaticon.com/512/74/74897.png"/>]()
+ [<img align="left" alt="C++" height="35px" width="50px" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"/>]()
  
 [<img align="left" alt="Python" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/>]()
   
  [<img align="left" alt="JavaScript" height="35px" width="50px" src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/38a9cafe-c53e-47f2-f431-428120462000/public"/>]()
 
  [<img align="left" alt="Html" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/>]()
+
+ [<img align="left" alt="CSS" height="35px" width="50px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"/>]()
  
  [<img align="left" alt="React" height="35px" width="50px" src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png"/>]()
  
