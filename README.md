@@ -44,10 +44,6 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
 </hr>
 
 <br>
-
- Languages and Tools:
-
-
 <hr>
   <code><img height="35px" width="50px" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png"></code>
 
@@ -66,6 +62,8 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
   <code><img height="35px" width="50px" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"></code>
 
 </hr>
+ Languages and Tools:
+
 
 
 
