@@ -18,29 +18,30 @@ In 2023, I am an upcoming research assistant in the  <a href='https://www.drdo.g
    In the summer of 2022, I worked with Prof. <a href='https://www.linkedin.com/in/dr-atul-chaturvedi-a6247234/' target="_blank">Atul Chaturvedi</a> at PSIT on the use of cryptography in Blockchain
 and hash function and how they generate keys for adding blocks of blockchain. I public a <a href="https://www.ijana.in/papers/ICCMEA_8.pdf" target="_blank" alt="Paper">Paper</a> on it. 
 
-<h2> I'm a Competitive Programmer:</h2>
-<hr>
-<a href="https://codeforces.com/profile/Deepak_23" target="_blank">
+## I'm a Competitive Programmer:
+
+
+--- <a href="https://codeforces.com/profile/Deepak_23" target="_blank">
   <img align="left" alt="Shaurya's CodeForces" height="35px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png"  />
 </a>
 
- <a href="https://www.codechef.com/users/aomine23" target="_blank">
+---  <a href="https://www.codechef.com/users/aomine23" target="_blank">
   <img align="left" alt="Shaurya's Code Chef" height="35px" width="50px" src="https://avatars.githubusercontent.com/u/11960354?v=4" />
 </a>
 
- <a href="https://www.hackerrank.com/2001641540049_DS?hr_r=1" target="_blank">
+ --- <a href="https://www.hackerrank.com/2001641540049_DS?hr_r=1" target="_blank">
   <img align="left" alt="Shaurya's HackerRank" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />
 </a>
 
- <a href="https://auth.geeksforgeeks.org/user/shaurya010" target="_blank">
+---  <a href="https://auth.geeksforgeeks.org/user/shaurya010" target="_blank">
   <img align="left" alt="shaurya's GFG" height="35px" width="50px" src="https://img.icons8.com/color/452/GeeksforGeeks.png" />
 </a>
 
- <a href="https://leetcode.com/shaurya123456/" target="_blank">
+---  <a href="https://leetcode.com/shaurya123456/" target="_blank">
   <img align="left" alt="Shaurya's Leet Code" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /> 
 </a>
-</hr>
-<br>
+
+
 
 ## Languages and Tools:
 
