@@ -19,6 +19,25 @@ In 2023, I am an upcoming research assistant in the  <a href='https://www.drdo.g
 and hash function and how they generate keys for adding blocks of blockchain. I public a <a href="https://www.ijana.in/papers/ICCMEA_8.pdf" target="_blank" alt="Paper">Paper</a> on it. 
 
 ## I'm a Competitive Programmer:
+* [ <img align="left" alt="Shaurya's CodeForces" height="35px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png"  />](https://codeforces.com/profile/Deepak_23)
+* [L'intelligence artificielle va faire gagner un temps fou aux codeurs](https://lexpansion.lexpress.fr/high-tech/thomas-dohmke-github-l-intelligence-artificielle-va-faire-gagner-un-temps-fou-aux-codeurs_2181911.html) (in French)
+* [Microsoft’s GitHub Copilot AI is making rapid progress. Here’s how its human leader thinks about it](https://www.cnbc.com/2022/10/14/microsoft-ai-leaps-ahead-heres-what-its-human-leader-thinks-about-it.html)
+* [GitHub CEO's advice to founders: Big Tech isn’t smarter than you](https://www.bizjournals.com/sanfrancisco/inno/stories/inno-insights/2022/10/04/startup-world-cup-2022-github-microsoft.html)
+* [AI-Powered Coding Assistant Aims to Help, Not Replace Developers](https://www.wsj.com/articles/ai-powered-coding-assistant-aims-to-help-not-replace-developers-11656113433)
+* [GitHub's New CEO Says He's 'All About Developer Happiness'](https://www.businessinsider.com/github-microsoft-new-ceo-thomas-dohmke-developer-happiness-2022-5)
+* [KI ist der nächste Schritt für die Softwareentwicklung](https://background.tagesspiegel.de/digitalisierung/ki-ist-der-naechste-schritt-fuer-die-softwareentwicklung) (in German)
+
+
+
+
+
+
+
+
+
+
+
+
 
 <hr>
  <a href="https://codeforces.com/profile/Deepak_23" target="_blank">
