@@ -63,7 +63,6 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
 
   <code><img height="35px" width="50px" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"></code>
 
-
 </hr>
 
 
