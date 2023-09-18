@@ -1,6 +1,6 @@
 # Hey 🖐, I'm [Shaurya Pratap Singh](https://shaurya010.github.io/Shaurya_CV/index.html)
 
-[![GitHub](https://img.shields.io/badge/GitHub-%40ashtom-239a3b.svg)](https://github.com/shaurya010)
+[![GitHub](https://img.shields.io/badge/GitHub-%40shaurya010-239a3b.svg)](https://github.com/shaurya010)
 [![Email](https://img.shields.io/badge/Twitter-%40ashtom-58a1f2.svg)](shauryapratap2114@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)]((https://www.linkedin.com/in/shaurya-pratap-singh-13978020b/))
 
