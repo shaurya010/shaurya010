@@ -34,7 +34,7 @@ and hash function and how they generate keys for adding blocks of blockchain. I 
 
 <br>
 <br>
-<br>
+
 
 ## Languages and Tools:
 
