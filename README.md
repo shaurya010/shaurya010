@@ -1,4 +1,4 @@
-# Hey 🖐, I'm [Shaurya Pratap Singh](https://shaurya010.github.io/Shaurya_CV/index.html)
+# Hey 🖐, I'm [Shaurya Pratap Singh](https://shaurya010.github.io/ShauryaPratap.dev/index.html)
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40shaurya010-239a3b.svg)](https://github.com/shaurya010)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaurya_Pratap_Singh-0c66c3.svg)]((https://www.linkedin.com/in/shaurya-pratap-singh-13978020b/))
