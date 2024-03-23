@@ -12,12 +12,12 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 Portfolio <a href="https://shaurya010.github.io/ShauryaPratap.dev/index.html">Link</a>
+
 - 💬 Ask me about **Java, React, Android**
 
-- 📫 How to reach me **rieyanshis@gmail.com**
+- 📫 How to reach me **shauryapratap2114@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11rURK1qzs-T4U5nU_A99f26N4robcFoX/view?usp=sharing]([https://drive.google.com/file/d/11rURK1qzs-T4U5nU_A99f26N4robcFoX/view?usp=sharing](https://shaurya010.github.io/ShauryaPratap.dev/index.html))
-
+- 📄 <a href="[https://shaurya010.github.io/ShauryaPratap.dev/index.html](https://drive.google.com/file/d/1o8aLPMPAclQunj1qATZh9Km_a-B6gsyU/view)">My CV</a>
  
 <br>
 <br>
