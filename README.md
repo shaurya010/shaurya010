@@ -14,7 +14,7 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
 
 - 👨‍💻 Portfolio <a href="https://shaurya010.github.io/ShauryaPratap.dev/index.html">Link</a>
 
-- 💬 Ask me about ** C/C++, Web-Dev, Quantum Computing, Cryptography**
+- 💬 Ask me about **C/C++, Web-Dev, Quantum Computing, Cryptography**
 
 - 📫 How to reach me **shauryapratap2114@gmail.com**
 
