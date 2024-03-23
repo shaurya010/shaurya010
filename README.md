@@ -17,7 +17,7 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
 
 - 📫 How to reach me **shauryapratap2114@gmail.com**
 
-- 📄 <a href="[https://shaurya010.github.io/ShauryaPratap.dev/index.html](https://drive.google.com/file/d/1o8aLPMPAclQunj1qATZh9Km_a-B6gsyU/view)">My CV</a>
+- 📄 <a href="https://drive.google.com/file/d/1o8aLPMPAclQunj1qATZh9Km_a-B6gsyU/view">My CV</a>
  
 <br>
 <br>
