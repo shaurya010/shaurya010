@@ -6,6 +6,8 @@
 I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academics/eb/computer-science-and-engineering' target="_blank">Computer Science Department</a> at
   <a href='https://www.psit.ac.in/' target="_blank">Pranveer Singh Institute Of Technology</a>, I am broadly
   interested in Data Structure and Algorithm, security, and Web Development. I created an <a href="https://shaurya010.github.io/Take_You_Online/" target="_blank" alt="website">educational website</a> which is live and has more than <strong>3000</strong> users.
+  <br>
+<br>
 
 - 🔭 I’m currently working @ **DRDO CAIR(Centre for Artificial Intelligence & Robotics)**
 
@@ -20,8 +22,6 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
 - 📄 My <a href="https://drive.google.com/file/d/1o8aLPMPAclQunj1qATZh9Km_a-B6gsyU/view">CV</a>
  
 <br>
-<br>
-
 ## I'm a Competitive Programmer:
 
  [ <img align="left" alt="Shaurya's CodeForces" height="35px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png"  />](https://codeforces.com/profile/Deepak_23)
