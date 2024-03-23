@@ -23,14 +23,12 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
 <br>
 ## I'm a Competitive Programmer:
 
- [ <img align="left" alt="Shaurya's HackerRank" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/2001641540049_DS?hr_r=1)
+ [ <img align="left" alt="Shaurya's HackerRank" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />(https://www.hackerrank.com/2001641540049_DS?hr_r=1)
 
  [ <img align="left" alt="shaurya's GFG" height="35px" width="50px"
-     src="https://img.icons8.com/color/452/GeeksforGeeks.png" />]
-     (https://auth.geeksforgeeks.org/user/shaurya010)
+     src="https://img.icons8.com/color/452/GeeksforGeeks.png" />](https://auth.geeksforgeeks.org/user/shaurya010)
 
- [ <img align="left" alt="Shaurya's Leet Code" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />]
- (https://leetcode.com/shaurya123456/)
+ [ <img align="left" alt="Shaurya's Leet Code" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />](https://leetcode.com/shaurya123456/)
 
 <br>
 <br>
