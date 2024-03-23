@@ -26,8 +26,6 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
 
  [ <img align="left" alt="Shaurya's CodeForces" height="35px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png"  />](https://codeforces.com/profile/Deepak_23)
 
- [<img align="left" alt="Shaurya's Code Chef" height="35px" width="50px" src="https://avatars.githubusercontent.com/u/11960354?v=4" />](https://www.codechef.com/users/aomine23)
-
  [ <img align="left" alt="Shaurya's HackerRank" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/2001641540049_DS?hr_r=1)
 
  [ <img align="left" alt="shaurya's GFG" height="35px" width="50px" src="https://img.icons8.com/color/452/GeeksforGeeks.png" />](https://auth.geeksforgeeks.org/user/shaurya010)
