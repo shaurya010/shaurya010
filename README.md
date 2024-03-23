@@ -11,8 +11,7 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 Portfolio Link [https://rieyanshi.github.io/Portfolio/]([https://shaurya010.github.io/ShauryaPratap.dev/index.html])
-
+- 👨‍💻 Portfolio <a href="https://shaurya010.github.io/ShauryaPratap.dev/index.html">Link</a>
 - 💬 Ask me about **Java, React, Android**
 
 - 📫 How to reach me **rieyanshis@gmail.com**
