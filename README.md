@@ -22,7 +22,7 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
  
 </br>
 
-## I amm a Competitive Programmer:
+## I am a Competitive Programmer:
 
  [ <img align="left" alt="Shaurya's HackerRank" height="35px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png"/>](https://www.hackerrank.com/profile/2001641540049_DS)
 
