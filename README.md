@@ -12,7 +12,7 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 Portfolio <a href="https://shaurya010.github.io/ShauryaPratap.dev/index.html">Link</a>
+- 👨‍💻 Portfolio *<a href="https://shaurya010.github.io/ShauryaPratap.dev/index.html">Link</a>*
 
 - 💬 Ask me about **C/C++, Web-Dev, Quantum Computing, Cryptography**
 
