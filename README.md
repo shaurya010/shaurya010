@@ -7,16 +7,19 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
   <a href='https://www.psit.ac.in/' target="_blank">Pranveer Singh Institute Of Technology</a>, I am broadly
   interested in Data Structure and Algorithm, security, and Web Development. I created an <a href="https://shaurya010.github.io/Take_You_Online/" target="_blank" alt="website">educational website</a> which is live and has more than <strong>3000</strong> users.
 
-Currently, I am an research assistant in the  <a href='https://www.drdo.gov.in/labs-and-establishments/centre-artificial-intelligence-robotics-cair' target="_blank"> Centre for Artificial Intelligence & Robotics (CAIR) at DRDO(Defence Research and Development Organisation)</a>,
-  under the supervision of  <a href='https://www.linkedin.com/in/bhupendra-singh-5ab5327/' target="_blank"> Dr. Bhupendra Singh</a>.
- My primary area of work will include the design and analysis of quantum-safe stream ciphers and block ciphers
-  also work on lattice-based cryptography. Design and analysis of tests for quantum random number generators.
+- 🔭 I’m currently working @ **DRDO CAIR(Centre for Artificial Intelligence & Robotics)**
 
-  Currently, I am working on the <a href="https://cseweb.ucsd.edu/~daniele/LatticeLinks/SVP.html" target="_blank" alt="Shortest vector Problem">Shortest Vector Problem </a>
-    of Post-Qunatum Cryptography and trying to find the shortest vector from an N-dimensional lattice with the help of the machine learning algorithm K-Nearest Neighbour(KNN). Also public a <a href="https://www.ijana.in/papers/ICCMEA_7.pdf" target="_blank" alt="Paper">Paper</a> related to qunatum cryptography.
+- 🌱 I’m currently learning **MERN Stack**
 
-   In the summer of 2022, I worked with Prof. <a href='https://www.linkedin.com/in/dr-atul-chaturvedi-a6247234/' target="_blank">Atul Chaturvedi</a> at PSIT on the use of cryptography in Blockchain
-and hash function and how they generate keys for adding blocks of blockchain. I public a <a href="https://www.ijana.in/papers/ICCMEA_8.pdf" target="_blank" alt="Paper">Paper</a> on it. 
+- 👨‍💻 Portfolio Link [https://rieyanshi.github.io/Portfolio/]([https://shaurya010.github.io/ShauryaPratap.dev/index.html])
+
+- 💬 Ask me about **Java, React, Android**
+
+- 📫 How to reach me **rieyanshis@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/11rURK1qzs-T4U5nU_A99f26N4robcFoX/view?usp=sharing]([https://drive.google.com/file/d/11rURK1qzs-T4U5nU_A99f26N4robcFoX/view?usp=sharing](https://shaurya010.github.io/ShauryaPratap.dev/index.html))
+
+ 
 <br>
 <br>
 
