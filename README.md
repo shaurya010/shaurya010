@@ -16,7 +16,7 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
 
 - 💬 Ask me about **C/C++, Web-Dev, Quantum Computing, Cryptography.**
 
-- 📫 How to reach me **shauryapratap2114@gmail.com**
+- 📫 How to reach me **pro.shaurya010@gmail.com**
 
 - 📄 My *<a href="https://drive.google.com/file/d/1e1kEUwDYAbQPbDY56TF_fTmEvfUe2RLD/view?usp=sharing">CV</a>.*
  
