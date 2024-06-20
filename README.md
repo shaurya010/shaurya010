@@ -10,7 +10,7 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
   [![GitHub](https://img.shields.io/badge/Google_Scholar-Shaurya_Pratap_Singh-0c66c3.svg)](https://scholar.google.com/citations?user=HDNW1HsAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaurya_Pratap_Singh-0c66c3.svg)](https://www.linkedin.com/in/shaurya-pratap-singh010/)
 
-  <br>
+ 
 
 - 🔭 I’m currently working @ **DRDO CAIR(Centre for Artificial Intelligence & Robotics).**
 
