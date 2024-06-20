@@ -2,6 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/Google_Scholar-Shaurya_Pratap_Singh-0c66c3.svg)](https://scholar.google.com/citations?user=HDNW1HsAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaurya_Pratap_Singh-0c66c3.svg)](https://www.linkedin.com/in/shaurya-pratap-singh010/)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=dksie09&label=Profile%20views&color=d4b3df&style=flat-square" alt="dksie09" /> </p>
 
 I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academics/eb/computer-science-and-engineering' target="_blank">Computer Science Department</a> at
   <a href='https://www.psit.ac.in/' target="_blank">Pranveer Singh Institute Of Technology</a>, I am broadly
