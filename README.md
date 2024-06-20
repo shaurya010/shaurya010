@@ -1,4 +1,5 @@
-# Hey 🖐, I'm [Shaurya Pratap Singh](https://shaurya010.github.io/ShauryaPratap.dev/index.html)
+
+<h1 align="center"> Hey 🖐,  <img src="https://shaurya010.github.io/ShauryaPratap.dev/index.html" width="30px">,I'm Shaurya Pratap Singh</h1>
 
 <h2 align="left">🌐 About Me </h2>
 
