@@ -9,7 +9,7 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
 
   [![GitHub](https://img.shields.io/badge/Google_Scholar-Shaurya_Pratap_Singh-0c66c3.svg)](https://scholar.google.com/citations?user=HDNW1HsAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaurya_Pratap_Singh-0c66c3.svg)](https://www.linkedin.com/in/shaurya-pratap-singh010/)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shaurya010&label=Profile%20views&color=d4b3df&style=flat-square" alt="shaurya010" /> </p>
+
   <br>
 
 - 🔭 I’m currently working @ **DRDO CAIR(Centre for Artificial Intelligence & Robotics).**
@@ -24,7 +24,7 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
 
 - 📄 My *<a href="https://drive.google.com/file/d/1e1kEUwDYAbQPbDY56TF_fTmEvfUe2RLD/view?usp=sharing">CV</a>.*
  
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shaurya010&label=Profile%20views&color=d4b3df&style=flat-square" alt="shaurya010" /> </p>
 
 
 
