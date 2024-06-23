@@ -24,7 +24,7 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
 
 - 📄 My *<a href="https://drive.google.com/file/d/1e1kEUwDYAbQPbDY56TF_fTmEvfUe2RLD/view?usp=sharing">CV</a>.*
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shaurya010&label=Profile%20views&color=d4b3df&style=flat-square" alt="shaurya010" /> </p>
+
 
 
 
