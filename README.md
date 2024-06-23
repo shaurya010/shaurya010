@@ -22,7 +22,7 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
 
 - 📫 How to reach me **pro.shaurya010@gmail.com**
 
-- 📄 My *<a href="https://drive.google.com/file/d/1e1kEUwDYAbQPbDY56TF_fTmEvfUe2RLD/view?usp=sharing">CV</a>.*
+
  
 
 
