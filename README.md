@@ -6,6 +6,8 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/shaurya-pratap-singh010/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=HDNW1HsAAAAJ&hl=en"><img alt="GoogleScholar" title="GoogleScholar" src="https://img.shields.io/badge/Google%20Scholar-%230077B5.svg?style=for-the-badge&logo=google%20scholar&logoColor=white"/></a>
+ <a href="https://x.com/Shaurya35619762"><img alt="GoogleScholar" title="GoogleScholar" src=" https://img.shields.io/badge/X-%230077B5.svg?style=for-the-badge&logo=X&logoColor=white%22"/></a>
+
 </p>
 
 <h2 align="left">🌐 About Me </h2>
