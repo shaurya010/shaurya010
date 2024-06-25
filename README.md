@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Shaurya...&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+
 
 
 
 <p align='center'>
+
+  ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Shaurya...&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
   <a href="https://www.linkedin.com/in/shaurya-pratap-singh010/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=HDNW1HsAAAAJ&hl=en"><img alt="GoogleScholar" title="GoogleScholar" src="https://img.shields.io/badge/Google%20Scholar-%230077B5.svg?style=for-the-badge&logo=google%20scholar&logoColor=white"/></a>
 </p>
