@@ -1,6 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Shaurya...&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
+<h5 align="center">Below are a few links you can connect with me there too</h5>
 
+<p align='center'>
+  <a href="https://www.linkedin.com/in/shaurya-pratap-singh010/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+  <a href="https://scholar.google.com/citations?user=HDNW1HsAAAAJ&hl=en"><img alt="GoogleScholar" title="GoogleScholar" src="https://img.shields.io/badge/Google_Scholar-Shaurya_Pratap_Singh-0c66c3.svg"/></a>
+</p>
 
 <h2 align="left">🌐 About Me </h2>
 
