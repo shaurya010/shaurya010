@@ -19,7 +19,15 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
 
  
 
- 
+ <img
+    src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+    min-width="200px"
+    max-width="200px"
+    width="300px"
+    align="right"
+    alt="Computador iuriCode"
+  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leandro2585&theme=tokyonight_duo"/>
 
 - 🔭 I’m currently working @ **DRDO CAIR(Centre for Artificial Intelligence & Robotics).**
 
