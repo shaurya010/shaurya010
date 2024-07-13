@@ -39,7 +39,7 @@ I am a fourth-year B.tech student in the <a href='https://www.psit.ac.in/academi
 
 - 📫 How to reach me **pro.shaurya010@gmail.com**
 
-  "Learning never exhausts the mind." - Leonardo da Vinci
+  <p align='center'>"Learning never exhausts the mind." - Leonardo da Vinci</p>
 
 
  
