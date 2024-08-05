@@ -1,14 +1,5 @@
 
- <head>
-  
-  <style>
-#text{
-font-size:160px;
-}
-</style>
-
- </head>
- <a href="https://www.linkedin.com/in/shaurya-pratap-singh010/" script="align='center'"><img alt="Linkedin" title="Linkedin" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Shaurya...&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/></a>
+<a href="https://www.linkedin.com/in/shaurya-pratap-singh010/" script="align='center'"><img alt="Linkedin" title="Linkedin" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Shaurya...&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/></a>
 
 
 <p align='center'>
@@ -20,11 +11,11 @@ font-size:160px;
 </p>
 
 <h2 align="left">🌐 About Me </h2>
-<p id="text">
+<h1>
  I am broadly interested in <b>Data Structure</b> and <b>Algorithms</b>, <b>Cryptography</b>, and <b>Web Development</b>. I created an educational website which is live and has more than 3000 users.<br>
 I have been recognized as the best researcher and paper publisher in Computer Science and Cryptography at my college. My publications include <b>5 Research Papers</b>, <b>3 Review papers</b>, and <b>1 book chapter</b>. Also, I am a <b> C++ programmer </b> and have solved <b>700+ questions</b> on various coding platforms. I am also familiar with the <b>MERN Stack </b> of technology and have created many websites.
 
- </p>
+ </h1>
  
  <img
     src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
