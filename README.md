@@ -12,8 +12,8 @@
 
 <h2 align="left">🌐 About Me </h2>
 <h3>
- I am broadly interested in <b>Data Structure</b> and <b>Algorithms</b>, <b>Cryptography</b>, and <b>Web Development</b>. I created an educational website which is live and has more than 3000 users.<br><br>
-I have been recognized as the best researcher and paper publisher in Computer Science and Cryptography at my college. My publications include <b>5 Research Papers</b>, <b>3 Review papers</b>, and <b>1 book chapter</b>. Also, I am a <b> C++ programmer </b> and have solved <b>700+ questions</b> on various coding platforms. I am also familiar with the <b>MERN Stack </b> of technology and have created many websites.
+ I am broadly interested in <b>Data Structure</b> and <u>Algorithms</u>, <u>Cryptography</u>, and <u>Web Development</u>. I created an educational website which is live and has more than 3000 users.<br><br>
+I have been recognized as the best researcher and paper publisher in Computer Science and Cryptography at my college. My publications include <u>5 Research Papers</u>, <u>3 Review papers</u>, and <u>1 book chapter</u>. Also, I am a <u> C++ Programmer </u> and have solved <u>700+ questions</u> on various coding platforms. I am also familiar with the <u>MERN Stack </u> of technology and have created many websites.
 
  </h3>
  
