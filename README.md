@@ -12,11 +12,11 @@
 </p>
 
 <h2 align="left">🌐 About Me </h2>
-<p>
+<h4>
  I am broadly interested in <b>Data Structure</b> and <b>Algorithms</b>, <b>Cryptography</b>, and <b>Web Development</b>. I created an educational website which is live and has more than 3000 users.<br>
 I have been recognized as the best researcher and paper publisher in Computer Science and Cryptography at my college. My publications include <b>5 Research Papers</b>, <b>3 Review papers</b>, and <b>1 book chapter</b>. Also, I am a <b> C++ programmer </b> and have solved <b>700+ questions</b> on various coding platforms. I am also familiar with the <b>MERN Stack </b> of technology and have created many websites.
 
- </p>
+ </h4>
 
  <img
     src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
