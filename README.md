@@ -17,9 +17,11 @@
 I have been recognized as the best researcher and paper publisher in Computer Science and Cryptography at my college. My publications include <b>5 Research Papers</b>, <b>3 Review papers</b>, and <b>1 book chapter</b>. Also, I am a <b> C++ programmer </b> and have solved <b>700+ questions</b> on various coding platforms. I am also familiar with the <b>MERN Stack </b> of technology and have created many websites.
 
  </p>
+ <style>
 #text{
 font-size:16px;
 }
+</style>
 
  <img
     src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
