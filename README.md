@@ -17,14 +17,14 @@ I have been recognized as the best researcher and paper publisher in Computer Sc
 
  </h3>
  
- <img
+<!--  <img
     src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
     min-width="200px"
     max-width="200px"
     width="300px"
     align="right"
     alt="Computador iuriCode"
-  />
+  /> -->
 
 
 - 🔭 I’m currently working @ **DRDO CAIR(Centre for Artificial Intelligence & Robotics).**
