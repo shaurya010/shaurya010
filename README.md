@@ -28,7 +28,7 @@ I have been recognized as the best researcher and paper publisher in Computer Sc
   /> -->
 
 
-- 🔭 I’m currently working @ **DRDO CAIR(Centre for Artificial Intelligence & Robotics).**
+- 🔭 I’m currently working @ **DRDO.**
 
 - 🌱 I’m currently learning **MERN Stack.**
 
