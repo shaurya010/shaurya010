@@ -10,7 +10,7 @@
     <div align="center">
     <a href="https://www.linkedin.com/in/shaurya-pratap-singh010/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
     <a href="mailto:shauryapratap2114@gmail.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="37" height="35" style="margin-right: 10px;" /></a>
-    <a href="https://scholar.google.com/citations?user=HDNW1HsAAAAJ&hl=en"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZaT4tYXk1vTMbpVl8XBBBIniJs51nPZz5Ig&s" width="37" height="35" style="margin-right: 10px , border-radius: 100%;" /></a>
+    <a href="https://scholar.google.com/citations?user=HDNW1HsAAAAJ&hl=en"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZaT4tYXk1vTMbpVl8XBBBIniJs51nPZz5Ig&s" width="37" height="35" style="margin-right: 10px;" border-radius: 100% /></a>
 </div>
 
 
