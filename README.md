@@ -1,11 +1,18 @@
+<div>
+ <!-- ayush image at at top -->
+    <div align="center">
+       <a href="https://www.linkedin.com/in/shaurya-pratap-singh010/" script="align='center'"><img alt="Linkedin" title="Linkedin" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Shaurya...&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/></a>
+    </div>
+    <!-- typing effect -->
+    <div align="center">
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Ayush+Verma;A+Data+Analyst;An+Android+Developer;A+DevOps+Enthusiast;An+Artificial+Intelligence+Expert;A+Cloud+Enthusiast+and;A+Machine+Learning+Expert" alt="Typing SVG" /></a>
+    </div>
+    <div align="center">
+    <a href="https://www.linkedin.com/in/shaurya-pratap-singh010/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
+    <a href="mailto:shauryapratap2114@gmail.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="37" height="35" style="margin-right: 10px;" /></a>
+    <a href="https://scholar.google.com/citations?user=HDNW1HsAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-%230077B5.svg?style=for-the-badge&logo=google%20scholar&logoColor=white" width="35" height="35" style="margin-right: 10px;" /></a>
+</div>
 
-<a href="https://www.linkedin.com/in/shaurya-pratap-singh010/" script="align='center'"><img alt="Linkedin" title="Linkedin" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Shaurya...&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/></a>
-
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/shaurya-pratap-singh010/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Shaurya35619762"><img alt="X" title="" src="https://img.shields.io/badge/X-%230077B5.svg?style=for-the-badge&logo=X&logoColor=white%22"/></a>
-  <a href="https://scholar.google.com/citations?user=HDNW1HsAAAAJ&hl=en"><img alt="GoogleScholar" title="GoogleScholar" src="https://img.shields.io/badge/Google%20Scholar-%230077B5.svg?style=for-the-badge&logo=google%20scholar&logoColor=white"/></a>
 
 
 </p>
