@@ -4,7 +4,7 @@
     </div>
     <!-- typing effect -->
     <div align="center">
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+A+Cryptographer;An+Quantum+Programmer;A+Web+Developer;An+Programmer;A+Mathematican;" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+A+Cryptographer;A+Quantum+Programmer;A+Web+Developer;A+Competitive+Programmer;A+Mathematican;" alt="Typing SVG" /></a>
     </div>
     <div align="center">
     <a href="https://www.linkedin.com/in/shaurya-pratap-singh010/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
