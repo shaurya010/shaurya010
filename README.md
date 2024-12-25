@@ -1,6 +1,6 @@
 <div>
     <div align="center">
-       <a href="https://www.linkedin.com/in/shaurya-pratap-singh010/" script="align='center'"><img alt="Linkedin" title="Linkedin" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20ShauryaPratapSingh&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/></a>
+       <a href="https://www.linkedin.com/in/shaurya-pratap-singh010/" script="align='center'"><img alt="Linkedin" title="Linkedin" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Shaurya%20Pratap%20Singh&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/></a>
     </div>
     <!-- typing effect -->
     <div align="center">
