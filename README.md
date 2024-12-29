@@ -18,7 +18,9 @@
 
 <h2 align="left">🌐 About Me </h2>
 <h3>
- I am broadly interested in <i>Data Structure</i> and <i>Algorithms</i>, <i>Cryptography</i>, and <i>Web Development</i>. I created an educational website which is live and has more than 3000 users.<br><br>
+ I am broadly interested in <i>Data Structure</i> and <i>Algorithms</i>, <i>Cryptography</i>, <i>Quantum Computing</i> and <i>Web Development</i>. 
+    during my internship at DRDO I worked on <i> "New Hash Algorithm using 3x+1 conjectures" 
+    I created an educational website which is live and has more than 3000 users.<br><br>
 I have been recognized as the best researcher and paper publisher in Computer Science and Cryptography at my college. My publications include <i>5 Research Papers</i>, <i>3 Review Papers</i>, and <i>1 Book Chapter</i>. Also, I am a <i> C++ Programmer </i> and have solved <i>700+ questions</i> on various coding platforms. I am also familiar with the <i>MERN Stack </i> of technology and have created many websites.
 
  </h3>
@@ -36,11 +38,11 @@ I have been recognized as the best researcher and paper publisher in Computer Sc
 
 - 🔭 I’m currently working @ **DRDO.**
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 👨‍💻 Building *<a href="https://priyanshijagati.github.io/EaseAlgo/">EaseAlgo</a>.(Coming Soon)*
 
-- 👨‍💻 Portfolio *<a href="https://shaurya010.github.io/ShauryaPratap.dev/index.html">Link</a>.*
+- 🌱 I’m currently exploring **Quantum Computing, MERN Stack, Mathematics**
 
-- 💬 Ask me about **C/C++, Web-Dev, Quantum Computing, Cryptography.**
+- 💬 Ask me about **Data Structure & Algorithms, Web-Dev, Quantum Computing, Cryptography, Mathematics.**
 
 - 📫 How to reach me **pro.shaurya010@gmail.com**
 
