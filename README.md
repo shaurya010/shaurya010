@@ -40,7 +40,7 @@ I have been recognized as the best researcher and paper publisher in Computer Sc
 
 - 👨‍💻 Building *<a href="https://priyanshijagati.github.io/EaseAlgo/">EaseAlgo</a>.(Coming Soon)*
 
-- 🌱 I’m currently exploring **Quantum Computing, MERN Stack, Mathematics**
+- 🌱 I’m currently exploring **Quantum Computing, MERN Stack, Mathematics.**
 
 - 💬 Ask me about **Data Structure & Algorithms, Web-Dev, Quantum Computing, Cryptography, Mathematics.**
 
