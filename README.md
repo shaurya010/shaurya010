@@ -36,8 +36,6 @@ I have been recognized as the best researcher and paper publisher in Computer Sc
   /> -->
 
 
-- 🔭 I’m currently working @ **DRDO.**
-
 - 👨‍💻 Building *<a href="https://priyanshijagati.github.io/EaseAlgo/">EaseAlgo</a>.(Coming Soon)*
 
 - 🌱 I’m currently exploring **Quantum Computing, MERN Stack, Mathematics.**
