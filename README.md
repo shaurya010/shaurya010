@@ -18,8 +18,9 @@
 
 <h2 align="left">🌐 About Me </h2>
 <h3>
+    <p>
  I am broadly interested in <i>Cryptography</i>, <i>Post-Quantum Cryptography</i>, <i>Quantum Computing</i> and <i>Design and Analysis of Algorithm</i>. 
-During my resarch internship at DRDO, I created a new quantum secure cryptographich hash algorithm called <i> <a href="https://eprint.iacr.org/2025/1606">"Collatz Hash: Cryptographic Hash Algorithm Using 3X+1 Conjecture"</a>. <br> </i> 
+During my resarch internship at DRDO, I created a new quantum secure cryptographich hash algorithm called <i> <a href="https://eprint.iacr.org/2025/1606">"Collatz Hash: Cryptographic Hash Algorithm Using 3X+1 Conjecture"</a>. </i> </p> <br>
     
 
 
