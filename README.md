@@ -1,7 +1,7 @@
 <div>
-    <div align="center">
+    <!-- <div align="center">
        <a href="https://www.linkedin.com/in/shaurya-pratap-singh010/" script="align='center'"><img alt="Linkedin" title="Linkedin" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I'm%20Shaurya%20Pratap%20Singh&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/></a>
-    </div>
+    </div> -->
     <!-- typing effect -->
     <div align="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&center=true&width=435&lines=%F0%9F%91%8B+A+Cryptographer;A+Quantum+Programmer;A+Web+Developer;A+Competitive+Programmer;A+Mathematician;" alt="Typing SVG" /></a>
