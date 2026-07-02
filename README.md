@@ -46,7 +46,7 @@ Moreover, I have been recognized as the best researcher and paper publisher in C
 
 - 📫 How to reach me **pro.shaurya010@gmail.com**
 
-  <p align='center'>"Learning never exhausts the mind." - Leonardo da Vinci</p>
+  <p align='center'>"Maybe the god is with you but there are many gods." - Shaurya Pratap Singh </p>
 
 
  
