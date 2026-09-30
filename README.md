@@ -26,7 +26,7 @@
 </p> <br>
     
  </h3>
- <br>
+
  
 <!--  <img
     src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
@@ -46,6 +46,8 @@
 - 💬 Ask me about **Quantum Computing, Cryptography,  Data Structure & Algorithms, Complexity Analysis, Mathematics.**
 
 - 📫 How to reach me **pro.shaurya010@gmail.com**
+
+   <br>
 
   <p align='center'>"Maybe the god is with you but there are many gods." - Shaurya Pratap Singh </p>
 
