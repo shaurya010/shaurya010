@@ -17,9 +17,13 @@
 
 <h2 align="left">🌐 About Me </h2>
 <h3>
-    <p>
- I am broadly interested in <i>Classical Cryptography</i>, <i>Post-Quantum Cryptography</i>, <i>Quantum Computing</i> and <i>Design and Analysis of Algorithm</i>. 
-During my resarch internship at DRDO, I created a new quantum secure hash algorithm called <i> <a href="https://eprint.iacr.org/2025/1606">" Collatz Hash: Hash Algorithm Using 3X+1 Conjecture" </a>. </i> </p> <br>
+  <p>
+  Currently, I am a <strong>Pre-Doctoral Fellow</strong> in the 
+  <a href="https://www.csa.iisc.ac.in/sparks-programme/" target="_blank" rel="noopener noreferrer">SPARKS Program</a>
+  at the <a href="https://www.iisc.ac.in/" target="_blank" rel="noopener noreferrer">Indian Institute of Science (IISc)</a>,
+  working under <a href="https://eecs.iisc.ac.in/people/sanjit-chatterjee/" target="_blank" rel="noopener noreferrer">Prof. Sanjit Chatterjee</a>
+  on developing a Quantum-Safe Hybrid TLS Protocol that combines classical and post-quantum cryptographic primitives for enhanced security.
+</p> <br>
     
 
 
