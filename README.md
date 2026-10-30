@@ -24,7 +24,7 @@
  
 
 
-- 🌱 I’m currently exploring **Quantum Computing, Post-Quantum Cryptography, Mathematics.**
+- 🌱 I’m currently exploring **Post-Quantum Cryptography, Quantum Computing.**
 
 - 💬 Ask me about **Quantum Computing, Cryptography,  Data Structure & Algorithms, Complexity Analysis, Mathematics.**
 
